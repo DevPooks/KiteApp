@@ -22,4 +22,4 @@ Funcionalidades.
 
 6. Cerrar sesión: En los detalles de la cuenta del usuario, hay un botón que permite al usuario cerrar su sesión de Google.
 
-<img src="https://github.com/DevPooks/KiteApp/blob/f561c76e1d2ac5ce9f1841d255d60fa77904e89a/Screenshot_20241207_035842_KiteApp.jpg" height="400" width="200"/> <img src="https://github.com/DevPooks/KiteApp/blob/8ddb8d8265c7f4ed3110c7b2f4cc21b9f8ba8158/Screenshot_20241207_035707_KiteApp.jpg" height="400" width="200"/> 
+<img src="https://github.com/DevPooks/KiteApp/blob/f561c76e1d2ac5ce9f1841d255d60fa77904e89a/Screenshot_20241207_035842_KiteApp.jpg" height="400" width="200"/> <img src="https://github.com/DevPooks/KiteApp/blob/8ddb8d8265c7f4ed3110c7b2f4cc21b9f8ba8158/Screenshot_20241207_035707_KiteApp.jpg" height="400" width="200"/>
